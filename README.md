@@ -1,4 +1,6 @@
 # refactoring-chapter1-code 
 
-for private study
+For private study.
+
+Record code of first chapter in *Refactoring*.
 
